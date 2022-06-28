@@ -1,0 +1,12 @@
+{
+  "name": "design-patterns-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhanghsoft/design-patterns-ts.git",
+  "author": "zhanghsoft <zhanghsoft@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
